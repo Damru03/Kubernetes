@@ -1,0 +1,54 @@
+!SESSION 2024-03-01 16:25:45.345 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.10
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/rupammittal9/.codeoss/data/User/workspaceStorage/662bc70c/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:50.468
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:50.962
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:51.130
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:51.135
+!MESSAGE Initializing Java Language Server 1.25.0.202306230807
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:51.495
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:51.703
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.099
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.163
+!MESSAGE Workspace initialized in 1670ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.262
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.267
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.277
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.280
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:00.724
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:00.748
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:00.860
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:00.894
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

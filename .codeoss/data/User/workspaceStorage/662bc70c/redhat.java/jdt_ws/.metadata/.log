@@ -1,0 +1,581 @@
+!SESSION 2024-03-01 16:25:45.434 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.10
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/rupammittal9/.codeoss/data/User/workspaceStorage/662bc70c/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:49.997
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:50.892
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:51.069
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:51.078
+!MESSAGE Initializing Java Language Server 1.25.0.202306230807
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.565
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-debug/server/com.microsoft.java.debug.plugin-0.46.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.580
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-dependency/server/com.microsoft.jdtls.ext.core-0.23.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.595
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-jupiter-api_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.600
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-jupiter-engine_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.606
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-jupiter-migrationsupport_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.613
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-jupiter-params_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.619
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-commons_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.625
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-engine_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.630
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-launcher_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.636
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-runner_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.642
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-suite-api_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.647
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-suite-commons_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.654
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-suite-engine_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.668
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-vintage-engine_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.672
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/org.apiguardian.api_1.1.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.677
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/org.eclipse.jdt.junit4.runtime_1.3.0.v20220609-1843.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.682
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/org.eclipse.jdt.junit5.runtime_1.1.100.v20220907-0450.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.686
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/org.opentest4j_1.2.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.695
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/com.microsoft.java.test.plugin-0.39.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.702
+!MESSAGE Installed reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-maven/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.39.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.843
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/com.microsoft.java.test.plugin-0.39.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.844
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/org.apiguardian.api_1.1.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.845
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/org.opentest4j_1.2.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.845
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-jupiter-api_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.846
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-jupiter-params_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.846
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-commons_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.847
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-suite-api_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.848
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-jupiter-migrationsupport_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.925
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-debug/server/com.microsoft.java.debug.plugin-0.46.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:53.926
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-jupiter-engine_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.098
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-maven/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.39.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.099
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-launcher_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.099
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-suite-commons_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.100
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/org.eclipse.jdt.junit4.runtime_1.3.0.v20220609-1843.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.101
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-suite-engine_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.101
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-vintage-engine_5.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.156
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-dependency/server/com.microsoft.jdtls.ext.core-0.23.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.157
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-engine_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.158
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/junit-platform-runner_1.9.2.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.158
+!MESSAGE Started reference:file:/google/devshell/editor/code-oss-for-cloud-shell/extensions/vscjava.vscode-java-test/server/org.eclipse.jdt.junit5.runtime_1.1.100.v20220907-0450.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.170
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.171
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.edit.handlePasteEvent, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.decompile, java.project.createModuleInfo, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.171
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.172
+!MESSAGE Non-Static Commands: [vscode.java.test.findJavaProjects, vscode.java.test.findTestPackagesAndTypes, vscode.java.test.findTestTypesAndMethods, vscode.java.test.resolvePath, vscode.java.test.findTestLocation, vscode.java.test.get.testpath, vscode.java.test.findDirectTestChildrenForClass, vscode.java.test.navigateToTestOrTarget, vscode.java.test.junit.argument, vscode.java.test.generateTests]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.172
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.172
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveInlineVariables, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.173
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.173
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.174
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.174
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.checkImportStatus, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.184
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.187
+!MESSAGE ProjectRegistryRefreshJob finished 2ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.303
+!MESSAGE Started org.eclipse.buildship.core 115ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.317
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.379
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.551
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:54.629
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:25:55.824
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:00.378
+!MESSAGE Workspace initialized in 6063ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:00.437
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:00.446
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:00.450
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:03.970
+!MESSAGE failed to send diagnostics
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.visit(WorkspaceDiagnosticsHandler.java:183)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.resourceChanged(WorkspaceDiagnosticsHandler.java:108)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:307)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:297)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:160)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:388)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1516)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2396)
+	at org.eclipse.core.internal.events.NotificationManager$NotifyJob.run(NotificationManager.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:03.971
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.251
+!MESSAGE failed to send diagnostics
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.visit(WorkspaceDiagnosticsHandler.java:183)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.resourceChanged(WorkspaceDiagnosticsHandler.java:108)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:307)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:297)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:160)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:388)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1516)
+	at org.eclipse.core.internal.resources.Workspace.buildInternal(Workspace.java:548)
+	at org.eclipse.core.internal.resources.Workspace.build(Workspace.java:413)
+	at org.eclipse.jdt.ls.core.internal.handlers.BuildWorkspaceHandler.buildWorkspace(BuildWorkspaceHandler.java:65)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$27(JDTLanguageServer.java:964)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$56(JDTLanguageServer.java:1164)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.253
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.262
+!MESSAGE Error occured while building workspace. Details: 
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/APIResult.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/Application.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/Binary.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/BinaryAPIController.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/BinaryAPIResult.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/BinaryController.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/HelloAPIController.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/HelloController.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/test/java/com.ontariotechu.sofe3980U/BinaryAPIControllerTest.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/test/java/com.ontariotechu.sofe3980U/BinaryControllerTest.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/test/java/com.ontariotechu.sofe3980U/HelloAPIControllerTest.java; line: 1
+ message: The declared package "com.ontariotechu.sofe3980U" does not match the expected package "com.ontariotechu.sofe3980U"; code: 536871240; resource: /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/test/java/com.ontariotechu.sofe3980U/HelloControllerTest.java; line: 1
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:05.338
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.342
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/test/java/com.ontariotechu.sofe3980U/HelloAPIControllerTest.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/test/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.343
+!MESSAGE src/test/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.356
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/test/java/com.ontariotechu.sofe3980U/BinaryAPIControllerTest.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/test/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.356
+!MESSAGE src/test/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.363
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/APIResult.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.363
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.395
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/test/java/com.ontariotechu.sofe3980U/HelloControllerTest.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/test/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.396
+!MESSAGE src/test/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.398
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/BinaryAPIResult.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.399
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.401
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/BinaryController.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.401
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.403
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/BinaryAPIController.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.403
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.405
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/test/java/com.ontariotechu.sofe3980U/BinaryControllerTest.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/test/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.405
+!MESSAGE src/test/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.408
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/HelloAPIController.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.408
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.410
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/Binary.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.410
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.412
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/Application.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.412
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2024-03-01 16:26:05.414
+!MESSAGE Failed to publish diagnostics for file:///home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/src/main/java/com.ontariotechu.sofe3980U/HelloController.java
+!STACK 1
+Java Model Exception: Error in Java Model (code 1006): src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:584)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.Openable.openAncestors(Openable.java:528)
+	at org.eclipse.jdt.internal.core.CompilationUnit.openAncestors(CompilationUnit.java:1246)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:248)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.Openable.getBuffer(Openable.java:296)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:320)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceDiagnosticsHandler.publishDiagnostics(WorkspaceDiagnosticsHandler.java:245)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer$2.run(JDTLanguageServer.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-03-01 16:26:05.414
+!MESSAGE src/main/java/com.ontariotechu.sofe3980U [in BinaryCalculatorWebapp] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:08.605
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:08.610
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:08.801
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2024-03-01 16:26:08.811
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

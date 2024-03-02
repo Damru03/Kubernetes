@@ -1,0 +1,8 @@
+2024-03-01 15:54:01.381 [info] Extension host with pid 3061 started
+2024-03-01 15:54:01.490 [info] Eager extensions activated
+2024-03-01 15:54:01.642 [info] Extension host with pid 3072 started
+2024-03-01 15:54:01.748 [info] Eager extensions activated
+2024-03-01 16:03:07.284 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-03-01 16:03:07.285 [info] Extension host with pid 3072 exiting with code 0
+2024-03-01 16:03:07.356 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-03-01 16:03:07.356 [info] Extension host with pid 3061 exiting with code 0

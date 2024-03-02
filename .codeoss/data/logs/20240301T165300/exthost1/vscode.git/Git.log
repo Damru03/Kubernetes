@@ -1,0 +1,16 @@
+2024-03-01 16:53:06.325 [info] Log level: Info
+2024-03-01 16:53:06.326 [info] Validating found git in: "git"
+2024-03-01 16:53:06.326 [info] Using git "2.30.2" from "git"
+2024-03-01 16:53:06.326 [info] > git rev-parse --show-toplevel [563ms]
+2024-03-01 16:53:06.326 [info] > git rev-parse --git-dir --git-common-dir [27ms]
+2024-03-01 16:53:06.326 [info] Open repository: /home/rupammittal9/SOFE3980U-Lab3
+2024-03-01 16:53:06.326 [info] > git config --get commit.template [17ms]
+2024-03-01 16:53:06.331 [info] > git rev-parse --show-toplevel [11ms]
+2024-03-01 16:53:06.368 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-03-01 16:53:06.387 [info] > git rev-parse --show-toplevel [23ms]
+2024-03-01 16:53:06.457 [info] > git status -z -uall [75ms]
+2024-03-01 16:53:06.503 [info] > git rev-parse --show-toplevel [66ms]
+2024-03-01 16:53:06.520 [info] > git config --get commit.template [28ms]
+2024-03-01 16:53:06.602 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [41ms]
+2024-03-01 16:53:06.880 [info] > git status -z -uall [263ms]
+2024-03-01 16:53:07.045 [info] > git check-ignore -v -z --stdin [6ms]

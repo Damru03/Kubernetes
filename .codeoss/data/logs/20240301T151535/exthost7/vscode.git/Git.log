@@ -1,0 +1,23 @@
+2024-03-01 16:48:15.103 [info] Log level: Info
+2024-03-01 16:48:15.103 [info] Validating found git in: "git"
+2024-03-01 16:48:15.103 [info] Using git "2.30.2" from "git"
+2024-03-01 16:48:15.103 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-01 16:48:15.103 [info] > git rev-parse --git-dir --git-common-dir [786ms]
+2024-03-01 16:48:15.103 [info] Open repository: /home/rupammittal9/SOFE3980U-Lab3
+2024-03-01 16:48:15.103 [info] > git rev-parse --show-toplevel [39ms]
+2024-03-01 16:48:15.103 [info] > git config --get commit.template [53ms]
+2024-03-01 16:48:15.103 [info] > git rev-parse --show-toplevel [89ms]
+2024-03-01 16:48:15.103 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms]
+2024-03-01 16:48:15.109 [info] > git rev-parse --show-toplevel [23ms]
+2024-03-01 16:48:15.115 [info] > git status -z -uall [14ms]
+2024-03-01 16:48:15.157 [info] > git config --get commit.template [5ms]
+2024-03-01 16:48:15.375 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [172ms]
+2024-03-01 16:48:15.492 [info] > git status -z -uall [81ms]
+2024-03-01 16:48:15.493 [info] > git check-ignore -v -z --stdin [8ms]
+2024-03-01 16:48:31.808 [info] > git config --get commit.template [62ms]
+2024-03-01 16:48:31.811 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-03-01 16:48:31.912 [info] > git status -z -uall [34ms]
+2024-03-01 16:48:36.989 [info] > git config --get commit.template [34ms]
+2024-03-01 16:48:36.993 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-03-01 16:48:37.036 [info] > git status -z -uall [14ms]
+2024-03-01 16:49:00.131 [info] > git check-ignore -v -z --stdin [2ms]

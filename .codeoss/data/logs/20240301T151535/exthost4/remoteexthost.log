@@ -1,0 +1,25 @@
+2024-03-01 16:25:40.113 [info] Extension host with pid 3606 started
+2024-03-01 16:25:40.191 [info] Lock '/home/rupammittal9/.codeoss/data/User/workspaceStorage/662bc70c/vscode.lock': Lock acquired.
+2024-03-01 16:25:40.467 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-01 16:25:40.480 [info] ExtensionService#_doActivateExtension redhat.java, startup: true, activationEvent: 'workspaceContains:pom.xml'
+2024-03-01 16:25:40.809 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: true, activationEvent: 'workspaceContains:pom.xml'
+2024-03-01 16:25:40.962 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: true, activationEvent: 'workspaceContains:pom.xml', root cause: vscjava.vscode-java-test
+2024-03-01 16:25:41.078 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-01 16:25:41.078 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-01 16:25:41.549 [info] ExtensionService#_doActivateExtension vscjava.vscode-maven, startup: true, activationEvent: 'workspaceContains:**/pom.xml'
+2024-03-01 16:25:41.549 [info] ExtensionService#_doActivateExtension redhat.fabric8-analytics, startup: true, activationEvent: 'workspaceContains:**/package.json,**/pom.xml,**/requirements.txt,**/go.mod'
+2024-03-01 16:25:44.497 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2024-03-01 16:25:44.555 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: true, activationEvent: 'workspaceContains:pom.xml'
+2024-03-01 16:25:44.919 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2024-03-01 16:25:50.475 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 16:25:50.476 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 16:25:50.476 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 16:25:50.477 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 16:25:50.478 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 16:25:53.751 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-01 16:25:53.751 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-01 16:25:53.752 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-01 16:26:00.712 [info] Eager extensions activated
+2024-03-01 16:26:08.556 [info] Extension host terminating: received terminate message from renderer
+2024-03-01 16:26:08.557 [info] Lock '/home/rupammittal9/.codeoss/data/User/workspaceStorage/662bc70c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-01 16:26:08.617 [info] Extension host with pid 3606 exiting with code 0

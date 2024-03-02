@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+/home/rupammittal9/.codeoss/data/User/workspaceStorage/-7fee770/redhat.java/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+2949097923.index

@@ -1,0 +1,5 @@
+FROM eclipse-temurin:17-jdk-alpine
+VOLUME /tmp
+COPY /home/rupammittal9/SOFE3980U-Lab3/BinaryCalculatorWebapp/target
+EXPOSE 8080
+CMD ["catalina.sh", "run"]
